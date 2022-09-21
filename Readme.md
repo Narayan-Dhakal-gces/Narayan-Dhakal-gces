@@ -3,18 +3,18 @@
 </h1>
 
 <!-- 
-![GitHub metrics](https://metrics.lecoq.io/narayandhakal09) -->
+![GitHub metrics](https://metrics.lecoq.io/Narayan-Dhakal-gces) -->
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narayandhakal09&label=Profile%20views&color=0e75b6&style=flat" alt="narayandhakal09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Narayan-Dhakal-gces&label=Profile%20views&color=0e75b6&style=flat" alt="Narayan-Dhakal-gces" /> </p>
 
 
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayandhakal09" alt="narayandhakal09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Narayan-Dhakal-gces" alt="Narayan-Dhakal-gces" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/narayandhakal09" target="blank"><img src="https://img.shields.io/twitter/follow/narayandhakal09?logo=twitter&style=for-the-badge" alt="narayandhakal09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Narayan-Dhakal-gces" target="blank"><img src="https://img.shields.io/twitter/follow/Narayan-Dhakal-gces?logo=twitter&style=for-the-badge" alt="Narayan-Dhakal-gces" /></a> </p>
 
 - 🔭 I’m currently working on PHP MYSQLi [Padandas](https://padandas.com/) Complete Education for Nepali Padandas Students [Padandas-Repo](padandas)
 
@@ -38,9 +38,9 @@
 
 
 
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandhakal09&" alt="narayandhakal09" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayandhakal09&show_icons=true&locale=en" alt="narayandhakal09" /> |
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-Dhakal-gces&" alt="Narayan-Dhakal-gces" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Narayan-Dhakal-gces&show_icons=true&locale=en" alt="Narayan-Dhakal-gces" /> |
 | ------------- | ------------- |
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Narayan-Dhakal-gces&show_icons=true&locale=en&layout=compact" alt="Narayan-Dhakal-gces" />
 
 </p>
 
@@ -48,10 +48,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/narayandhakal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narayandhakal09" height="30" width="40" /></a>
-<a href="https://twitter.com/narayandhakal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narayandhakal09" height="30" width="40" /></a>
+<a href="https://codepen.io/Narayan-Dhakal-gces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Narayan-Dhakal-gces" height="30" width="40" /></a>
+<a href="https://twitter.com/Narayan-Dhakal-gces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Narayan-Dhakal-gces" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/narayan-dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan-dhakal" height="30" width="40" /></a>
-<a href="https://fb.com/narayandhakal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="narayandhakal09" height="30" width="40" /></a>
+<a href="https://fb.com/Narayan-Dhakal-gces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Narayan-Dhakal-gces" height="30" width="40" /></a>
 <a href="https://medium.com/@sanzgrapher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanzgrapher" height="30" width="40" /></a>
 </p>
 
